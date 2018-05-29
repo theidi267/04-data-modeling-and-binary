@@ -33,6 +33,4 @@ exports.handleBuffer = (err, data, callback) => {
 
   }
   callback(undefined, tempVar, parsedBitmap, bufferData);
-
-
 };

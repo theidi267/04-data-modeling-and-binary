@@ -11,5 +11,3 @@ fs.readFile('./bitmap.bmp', (err, data) => {
   bitmap.handleBuffer(undefined, data, transform.lineSplit);
 });
 
-
-//console.log(typeof bufferBMP);
