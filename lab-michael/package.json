@@ -1,7 +1,6 @@
 {
   "name": "lab-timea",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -19,5 +18,6 @@
     "tests-watch": "jest --watchall --verbose --coverage"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
