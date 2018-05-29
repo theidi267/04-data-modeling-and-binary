@@ -1,0 +1,23 @@
+{
+  "name": "lab-timea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "fs": "0.0.1-security",
+    "jest": "^22.4.4",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint **/*js",
+    "test": "jest --verbose --coverage",
+    "tests-watch": "jest --watchall --verbose --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
